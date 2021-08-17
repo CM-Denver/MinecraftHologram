@@ -1,0 +1,7 @@
+version: 1.0
+name: Hologram
+main: com.william.plugin.Main
+
+author: me
+description: Creates a hologram with the text "Bucket placed" using invisible armor stands whenever a player places a bucket!
+
